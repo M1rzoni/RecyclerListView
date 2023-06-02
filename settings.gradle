@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "PleaseAdapterRadiSAD"
+rootProject.name = "RecyclerListView"
 include ':app'
